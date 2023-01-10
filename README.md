@@ -1,6 +1,8 @@
 # Pacman-Factory
 A simple two button web application that uses one button to generate pacmen, while another button starts their movement and sends them bouncing around the window at random speeds.
 
+<img src='Pacman.gif' width='400'/>
+
 # How to Run:
 * Download repository.
   * Make sure you have an images folder with the pacman.png's and that the folder is in the same directory and level as the html, css, and javascript files.
